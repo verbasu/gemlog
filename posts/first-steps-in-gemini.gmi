@@ -1,3 +1,4 @@
-Hello, world!
+Great tool for gemlog automation
 
-This is an example gemlog post.
+=> https://github.com/justlark/gempost.git Gempost on GitHub
+

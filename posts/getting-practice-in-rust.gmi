@@ -1,0 +1,7 @@
+Make some changes in source code of Gempost. Now you not need to define new post
+title in command line parameter. It will be derived from slug. It's easy to write slug
+properly, for example "my-great-new-post".
+
+=> https://git.sr.ht/~ikichigai/gempost My fork on SourceHut
+=> https://github.com/verbasu/gempost.git My fork on GitHub
+
