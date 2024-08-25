@@ -1,0 +1,7 @@
+# bob.qoq.su
+
+=> gemini://bob.qoq.su/posts/ My Gemlog
+=> gemini://auragem.letz.dev/search/s Gemini Search Engine
+=> gemini://geminiprotocol.net/ Gemini Protocol Homepage
+=> gemini://gem.sdf.org/ SDF Gemini Space
+=> gemini://perso.pw/blog/ Solene Gemlog
